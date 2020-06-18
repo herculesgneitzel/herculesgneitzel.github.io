@@ -20,7 +20,7 @@ header a:hover {
     position: absolute;
     top: 25px;
     padding-left: 5% ;
-    font-family: 'Sriracha', cursive;
+    font-family: 'Sriracha';
     
 }
 
@@ -29,7 +29,7 @@ header a:hover {
     top: 4%;
     float: right;
     width: 60%;
-    font-family: 'Odibee Sans', cursive;
+    font-family: 'Odibee Sans';
     font-size: 50px;
 }
 
@@ -38,7 +38,7 @@ header a:hover {
 }
 
 #nome {
-    font-family: 'Sriracha', cursive;
+    font-family: 'Sriracha';
     background-image: url(img/pc2.jpg); 
     background-size: cover;
     background-attachment: fixed;
@@ -58,14 +58,14 @@ h2 {
 }
 
 h3 { 
-    font-family: 'Sriracha', cursive;
+    font-family: 'Sriracha';
     font-size: 50px ;
     padding-left: 30%;
     padding-top: 10px;
 }
 
 h4 {
-    font-family: 'Sriracha', cursive;
+    font-family: 'Sriracha';
     font-size: 40px;
     padding-left: 40px;
     padding-top: 5%;
@@ -80,7 +80,7 @@ h4 {
 }
 
 a {  
-    font-family: 'Sriracha', cursive;
+    font-family: 'Sriracha';
     font-size: 20px;
     padding-left: 4%;
     text-decoration: none;
@@ -93,7 +93,7 @@ a:hover {
 }
 
 body {    
-    font-family: 'MuseoModerno', cursive;
+    font-family: 'MuseoModerno';
 }
 
 body p {
