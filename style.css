@@ -42,6 +42,7 @@ header a:hover {
     background-image: url(img/pc2.jpg); 
     background-size: cover;
     background-attachment: fixed;
+    height: 100vh;
 }
 
 h1 {
@@ -67,7 +68,6 @@ h4 {
     font-size: 40px;
     padding-left: 40px;
     padding-top: 5%;
-    padding-bottom: 10%;
 }
 
 .professor-ead h4{
