@@ -42,8 +42,6 @@ header a:hover {
     background-image: url(img/pc2.jpg); 
     background-size: cover;
     background-attachment: fixed;
-    width: 148vh;
-    height: 100vh;
 }
 
 h1 {
