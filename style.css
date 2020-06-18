@@ -1,0 +1,130 @@
+header {
+    width: 100%;
+    height: 11.00vh;
+    background-color:#545366;
+    position: fixed;
+    z-index: 5;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+header a:hover {
+    text-decoration:underline;
+    color: tomato;
+}
+
+#logo {
+    position: absolute;
+    top: 25px;
+    padding-left: 5% ;
+    font-family: 'Sriracha', cursive;
+    
+}
+
+#menu {
+    position: relative;
+    top: 4%;
+    float: right;
+    width: 60%;
+    font-family: 'Odibee Sans', cursive;
+    font-size: 50px;
+}
+
+#menu a {
+    padding-right: 4.68% ;
+}
+
+#nome {
+    font-family: 'Sriracha', cursive;
+    background-image: url(img/pc2.jpg); 
+    background-size: cover;
+    background-attachment: fixed;
+    width: 148vh;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 50px;
+    padding-top: 30%;
+    padding-left: 10%;
+}
+
+h2 {
+    font-size: 50px;
+    padding-left: 20%;
+}
+
+h3 { 
+    font-family: 'Sriracha', cursive;
+    font-size: 50px ;
+    padding-left: 30%;
+    padding-top: 10px;
+}
+
+h4 {
+    font-family: 'Sriracha', cursive;
+    font-size: 40px;
+    padding-left: 40px;
+    padding-top: 5%;
+}
+
+.professor-ead h4{
+    padding-top: 9%;
+}
+
+.redes-sociais h4 {
+    padding-top: 9%;
+}
+
+a {  
+    font-family: 'Sriracha', cursive;
+    font-size: 20px;
+    padding-left: 4%;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: tomato;
+}
+
+body {    
+    font-family: 'MuseoModerno', cursive;
+}
+
+body p {
+    margin: 25px;
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    padding-left: 15px;
+    width: 35%;
+}
+
+#sobre-mim {
+    background-color:#6456E3;
+    padding-bottom: 2%;
+    padding-top: 6%;
+}
+
+#professor-ead {
+    background-color:#5A73ED;
+    padding-bottom: 2%;
+}
+#redes-sociais {
+    background-color:#5D92D6;
+    padding-bottom: 2%;
+    
+}
+
+footer {
+    background-color:#5AC1ED;
+    padding: 2%;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 13px;
+    text-align: center;
+}
+
