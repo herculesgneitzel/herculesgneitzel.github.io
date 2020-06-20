@@ -11,7 +11,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
-  --blue: #007bff;
+  --blue: #09ff00;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -66,7 +66,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #C98BCC;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #1abc9c;
+  color:#C98BCC;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #117964;
+  color: #C98BCC;
   text-decoration: underline;
 }
 
@@ -1794,7 +1794,7 @@ pre code {
 .table-info,
 .table-info > th,
 .table-info > td {
-  background-color: #bee5eb;
+  background-color:  #C092D6;
 }
 .table-info th,
 .table-info td,
@@ -2577,7 +2577,7 @@ fieldset:disabled a.btn {
 }
 .btn-info.disabled, .btn-info:disabled {
   color: #fff;
-  background-color: #17a2b8;
+  background-color:#B7A3E3;
   border-color: #17a2b8;
 }
 .btn-info:not(:disabled):not(.disabled):active, .btn-info:not(:disabled):not(.disabled).active, .show > .btn-info.dropdown-toggle {
@@ -4412,7 +4412,7 @@ input[type=button].btn-block {
 
 .card-footer {
   padding: 0.75rem 1.25rem;
-  background-color: rgba(0, 0, 0, 0.03);
+  background-color: ;
   border-top: 0.125rem solid rgba(0, 0, 0, 0.125);
 }
 .card-footer:last-child {
@@ -10257,5 +10257,5 @@ form .row:first-child .floating-label-form-group {
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #B7A3E3;
 }
